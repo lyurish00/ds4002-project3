@@ -3,9 +3,13 @@
 ## Section 1: Software and platform section
 Software Used: <br>
 Google Collab (Python - ipynb)
+UVA HPC systems (Rivanna) 
+Jupyter Notebook (python) 
 
 Packages Required:<br>
-
+import pandas as pd<br>
+import numpy as np<br>
+import tensorflow as tf<br>
 
 Platform:<br>
 Mac 
