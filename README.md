@@ -30,7 +30,7 @@ Milestone3/
 │   │-- 
 │   │-- 
 
-# Section 3: Instructions for Reproducing Results<br>
+## Section 3: Instructions for Reproducing Results<br>
 Clone the Repository<br>
 Install Required Packages<br>
 Open the data set files <br>
