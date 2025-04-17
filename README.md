@@ -2,9 +2,9 @@
 
 ## Section 1: Software and platform section
 Software Used: <br>
-Google Collab (Python - ipynb)
-UVA HPC systems (Rivanna) 
-Jupyter Notebook (python) 
+Google Collab (Python - ipynb) <br>
+UVA HPC systems (Rivanna)  <br>
+Jupyter Notebook (python)  <br>
 
 Packages Required:<br>
 import pandas as pd<br>
