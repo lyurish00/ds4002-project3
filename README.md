@@ -17,8 +17,8 @@ Mac
 ## Section 2: Project Folder Structure<br>
 Milestone3/
 │-- DATA/
-│   │-- 
-│   │-- 
+│   │-- Test
+│   │-- Train
 │   │-- 
 │   │-- 
 │-- SCRIPTS/
