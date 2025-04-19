@@ -19,8 +19,7 @@ Milestone3/
 │-- DATA/
 │   │-- Test
 │   │-- Train
-│   │-- 
-│   │-- 
+│   │-- data_appendix.pdf
 │-- SCRIPTS/
 │   │-- 
 │-- LICENSE
