@@ -21,7 +21,8 @@ Milestone3/
 │   │-- Train
 │   │-- data_appendix.pdf
 │-- SCRIPTS/
-│   │-- 
+│   │-- random_forest_crop_type.ipynb
+│   │-- vgg_for_milestone_3.ipynb
 │-- LICENSE
 │-- OUTPUTS/
 │   |-- 
