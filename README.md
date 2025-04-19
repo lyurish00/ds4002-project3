@@ -10,6 +10,7 @@ Packages Required:<br>
 import pandas as pd<br>
 import numpy as np<br>
 import tensorflow as tf<br>
+pip install opencv-python
 
 Platform:<br>
 Mac 
