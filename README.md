@@ -25,10 +25,7 @@ Milestone3/
 │   │-- vgg_for_milestone_3.ipynb
 │-- LICENSE
 │-- OUTPUTS/
-│   |-- 
-│   │-- 
-│   │-- 
-│   │-- 
+│   |-- image_count_per_chosen_crop_table.png
 
 ## Section 3: Instructions for Reproducing Results<br>
 Clone the Repository<br>
