@@ -24,6 +24,7 @@ Milestone3/
 │-- SCRIPTS/
 │   │-- random_forest_crop_type.ipynb
 │   │-- vgg_for_milestone_3.ipynb
+│   │-- DS4002Proj3_resnet.ipynb
 │-- LICENSE
 │-- OUTPUTS/
 │   |-- image_count_per_chosen_crop_table.png
