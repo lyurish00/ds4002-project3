@@ -28,6 +28,7 @@ Milestone3/
 │-- LICENSE
 │-- OUTPUTS/
 │   |-- image_count_per_chosen_crop_table.png
+│   |-- DS4002-Proj3-exploratoryplot_resnet.png
 
 ## Section 3: Instructions for Reproducing Results<br>
 Clone the Repository<br>
